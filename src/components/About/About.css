@@ -1,0 +1,21 @@
+.about-title .title {
+    color: #BEB6BF;
+    font-size: 3rem;
+}
+
+.about-post {
+    margin: 2em 0 0 0;
+}
+
+.about-post h2, .about-post p  {
+    font-size: 2rem;
+    color: #BEB6BF;
+}
+
+.about-post h2 {
+    margin-top: 2em;
+}
+
+.about-post p {
+    margin: 1em 0 1em 0;
+}

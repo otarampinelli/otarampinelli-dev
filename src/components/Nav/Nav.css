@@ -1,0 +1,15 @@
+.navbar div {
+    background: #26242B;
+    display: flex;
+    height: 5em;
+    align-items: center;
+}
+
+.navbar-options a {
+    background: #26242B;
+    font-family: 'Anton', sans-serif;
+    margin-left: 0.5em;
+    font-size: 2.5rem;
+    color: #BEB6BF;   
+    text-decoration: none;
+}
