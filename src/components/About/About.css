@@ -19,3 +19,11 @@
 .about-post p {
     margin: 1em 0 1em 0;
 }
+
+.about-post p a {
+    color: #BEB6BF;
+}
+
+.about-post p a:hover {
+    color: #8E888F;
+}
