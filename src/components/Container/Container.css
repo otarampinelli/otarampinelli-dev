@@ -1,7 +1,6 @@
 .container {
-    align-self: center;
-    justify-content: center;
-    width: 50%;
-    height: 40rem;
-    margin: 5rem 0 0 0;
+  align-self: center;
+  justify-content: center;
+  width: 50%;
+  margin: 5rem 0 0 0;
 }

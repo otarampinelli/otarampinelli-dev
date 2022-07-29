@@ -1,29 +1,30 @@
 .about-title .title {
-    color: #BEB6BF;
-    font-size: 3rem;
+  color: #beb6bf;
+  font-size: 3rem;
 }
 
 .about-post {
-    margin: 2em 0 0 0;
+  margin: 2em 0 0 0;
 }
 
-.about-post h2, .about-post p  {
-    font-size: 2rem;
-    color: #BEB6BF;
+.about-post h2,
+.about-post p {
+  font-size: 2rem;
+  color: #beb6bf;
 }
 
 .about-post h2 {
-    margin-top: 2em;
+  margin-top: 2em;
 }
 
 .about-post p {
-    margin: 1em 0 1em 0;
+  margin: 1em 0 1em 0;
 }
 
 .about-post p a {
-    color: #BEB6BF;
+  color: #beb6bf;
 }
 
 .about-post p a:hover {
-    color: #8E888F;
+  color: #8e888f;
 }

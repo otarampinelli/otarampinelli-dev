@@ -7,7 +7,9 @@ import About from '../About/About'
 const Container = () => {
     return (
         <section className='container'>
-            <About />
+            <article className='about-article'>
+                <About />
+            </article>
         </section>
     )
 }
