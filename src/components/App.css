@@ -1,14 +1,21 @@
 * {
-    margin: 0;
-    background: #383640;
+  margin: 0;
 }
 
 html {
-    font-size: 62.5%;
+  font-size: 62.5%;
+  background: #383640;
 }
 
-.app {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+.app .container-section,
+.app .nav-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.app .footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
