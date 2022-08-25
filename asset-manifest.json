@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/otarampinelli-dev/static/css/main.0acef736.css",
-    "main.js": "/otarampinelli-dev/static/js/main.23a03203.js",
+    "main.js": "/otarampinelli-dev/static/js/main.c239a57b.js",
     "index.html": "/otarampinelli-dev/index.html",
     "main.0acef736.css.map": "/otarampinelli-dev/static/css/main.0acef736.css.map",
-    "main.23a03203.js.map": "/otarampinelli-dev/static/js/main.23a03203.js.map"
+    "main.c239a57b.js.map": "/otarampinelli-dev/static/js/main.c239a57b.js.map"
   },
   "entrypoints": [
     "static/css/main.0acef736.css",
-    "static/js/main.23a03203.js"
+    "static/js/main.c239a57b.js"
   ]
 }
