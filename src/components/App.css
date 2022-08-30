@@ -7,6 +7,12 @@ html {
   background: #383640;
 }
 
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
 .app .container-section,
 .app .nav-section {
   display: flex;
@@ -16,6 +22,9 @@ html {
 
 .app .footer-section {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-direction: column-reverse;
+  align-self: center;
+  align-content: flex-end;
+  width: 50%;
+  height: 100vh;
 }
