@@ -1,5 +1,10 @@
+:root {
+  --primary-text-gray: #beb6bf;
+  --secondary-text-gray: #8e888f;
+}
+
 .about-title .title {
-  color: #beb6bf;
+  color: var(--primary-text-gray);
   font-size: 3rem;
 }
 
@@ -10,7 +15,7 @@
 .about-post h2,
 .about-post p {
   font-size: 2rem;
-  color: #beb6bf;
+  color: var(--primary-text-gray);
 }
 
 .about-post h2 {
@@ -22,9 +27,9 @@
 }
 
 .about-post p a {
-  color: #beb6bf;
+  color: var(--primary-text-gray);
 }
 
 .about-post p a:hover {
-  color: #8e888f;
+  color: var(--secondary-text-gray);
 }
